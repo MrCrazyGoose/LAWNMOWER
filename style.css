@@ -1,0 +1,11 @@
+th, td {
+  width:1.62vmin;
+  height:1.62vmin;
+  background-color:green;
+  padding: 0px;
+  outline:1px solid black;
+}
+table {
+border-spacing:0px;
+
+}
